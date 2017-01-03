@@ -8,7 +8,7 @@
  * https://github.com/timgilbert/js-weighted-list is its home.
  */
 
-var WeightedList = (function() {
+module.exports = (function() {
 
   function _WeightedList(initial) {
     this.weights = {};
