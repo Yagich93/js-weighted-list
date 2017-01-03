@@ -1,6 +1,6 @@
 {
   "name": "js-weighted-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small weighted-probability list library",
   "main": "js-weighted-list.js",
   "repository": {
