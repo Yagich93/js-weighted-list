@@ -5,7 +5,7 @@
   "main": "js-weighted-list.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/timgilbert/js-weighted-list.git"
+    "url": "git://github.com/Yagich93/js-weighted-list.git"
   },
   "devDependencies": {
     "chai": "*",
