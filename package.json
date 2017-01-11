@@ -1,7 +1,7 @@
 {
   "name": "js-weighted-list",
   "version": "0.1.1",
-  "description": "Small weighted-probability list library",
+  "description": "Small weighted-probability list library (node.js port fork)",
   "main": "js-weighted-list.js",
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
     "random"
   ],
   "author": "Tim Gilbert <timgilbert@gmail.com>",
+  "contributors": ["Iakov Lushin <yagich@bk.ru>"],
   "license": "MIT",
   "readmeFilename": "README.md"
 }
